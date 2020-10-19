@@ -4,4 +4,4 @@ ADD src /src
 
 RUN pip install pystrich
 
-CMD [ "python", "./src/app.py" ]
+CMD [ "python", "./Src/app.py" ]
